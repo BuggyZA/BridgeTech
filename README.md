@@ -257,7 +257,7 @@ dotnet run
 The frontend defaults to:
 
 ```text
-https://nwu-bridgetech-production.up.railway.app
+https://bridgetech-e2fkdkcwg8h3azcw.uaenorth-01.azurewebsites.net
 ```
 
 Set `VITE_API_URL` when the API is hosted at another address.
